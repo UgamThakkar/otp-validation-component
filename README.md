@@ -158,3 +158,5 @@ Project Link: [https://github.com/yourusername/otp-validation-component](https:/
 ---
 
 ⭐ **Star this repo if you found it helpful!** ⭐
+# otp-validation-component
+OTP-validation component in React. Built for any number of otp input.
